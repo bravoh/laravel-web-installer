@@ -1,0 +1,14 @@
+{
+    "name": "bravoh/laravel-web-installer",
+    "description": "Simple step by step laravel application installer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bravoh",
+            "email": "kiptoobravo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
